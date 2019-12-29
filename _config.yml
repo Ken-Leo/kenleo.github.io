@@ -1,15 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Ke LUO
+url: "https://github.com/Ken-Leo"
+baseurl: "/kenleo.resume"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+#ins_logo: " "
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/Ken-Leo"
+footer_text: "Page updated by Ken"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/kenleo.resume/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

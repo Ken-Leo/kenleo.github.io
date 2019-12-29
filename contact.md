@@ -9,9 +9,9 @@ is_contact: true
 
 ## Mailing Address
 
-> 1037 Luoyu Road, Wuhan National Laboratory for Optoelectronics, HUST 
+> Wuhan National Laboratory for Optoelectronics, HUST 
 > 
-> Wuhan
+> 1037 Luoyu Road, Wuhan
 >
 > China
 
