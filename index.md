@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="ken.jpeg">
 
 Hi! I am a Ph.D. student of Computer Architecture at Wuhan National Laboratory for Optoelectronics, Huazhong University of Science & Technology, China.
 
@@ -31,7 +31,7 @@ Ke Luo (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wu
 Guoqiang Xie (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Ke Luo; Shaobing Wang; Ping Lu; Weiming Cheng; Jincai Chen Source: 2018 Asia-Pacific Magnetic Recording Conference (APMRC), p 2 pp., 2018
 
 ## Related Projects
-超高密度二维磁记录读磁头阵列及其记录系统关键技术研究. NSFC No.61672246. (2017.1~2020.12)
-比特图案介质的超高密度瓦记录关键技术研究. NSFC No.61272068. (2013.1~2016.12)
+* 超高密度二维磁记录读磁头阵列及其记录系统关键技术研究. NSFC No.61672246. (2017.1~2020.12)
+* 比特图案介质的超高密度瓦记录关键技术研究. NSFC No.61272068. (2013.1~2016.12)
 
 
