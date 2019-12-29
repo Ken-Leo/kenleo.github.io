@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="ken.jpg">
+<img class="profile-picture" src="ken2.jpg">
 
 Hi! I am a Ph.D. student of Computer Architecture at Wuhan National Laboratory for Optoelectronics, Huazhong University of Science & Technology, China.
 

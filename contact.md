@@ -3,13 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [kenleo_hust@outlook.com](mailto:kenleo_hust@outlook.com)
-
+* Email(prefer): [kenleo_hust@outlook.com](mailto:kenleo_hust@outlook.com)
+* Email: [kenleo@hust.edu.cn](mailto:kenleo@hust.edu.cn)
 ---
 
 ## Mailing Address
 
-> Wuhan National Laboratory for Optoelectronics, HUST 
+> Wuhan National Laboratory for Optoelectronics
+> 
+> Huazhong University of Science and Technology
 > 
 > 1037 Luoyu Road, Wuhan
 >
