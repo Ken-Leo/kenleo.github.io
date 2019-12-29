@@ -3,8 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email-1: [kenleo_hust@outlook.com (prefer)](mailto:kenleo_hust@outlook.com)
-* Email-2: [kenleo@hust.edu.cn](mailto:kenleo@hust.edu.cn)
+* Email: [kenleo_hust@outlook.com (prefer)](mailto:kenleo_hust@outlook.com)
+* Email: [kenleo@hust.edu.cn](mailto:kenleo@hust.edu.cn)
   
 ---
 
