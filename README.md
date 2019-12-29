@@ -1,6 +1,7 @@
 # Description
 
-A webpage for sharing personal interests and ideas.
+A [webpage](https://ken-leo.github.io/kenleo.resume/) for sharing personal interests and ideas.
+
 
 ## Acknowledgment
 The website is built with a template:
