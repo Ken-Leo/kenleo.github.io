@@ -6,40 +6,32 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a Ph.D. student of Computer Architecture at Wuhan National Laboratory for Optoelectronics, Huazhong University of Science & Technology, China.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Magnetic Recording, Signal Processing in Communication, Information Theory and Coding Technology, and Machine Learning
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. A Study on Block-Based Neural Network Equalization in TDMR System With LDPC Coding
+Ke Luo (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Shaobing Wang; Kheong Sann Chan; Wei Chen; Jincai Chen; Ping Lu; Weiming Cheng Source: IEEE Transactions on Magnetics, v 55, n 11, p 6700605 (5 pp.), Nov. 2019
 
-## Typography
+2. Joint Four-Reader Array Equalization and Detection for a Single Track in TDMR
+Shaobing Wang (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Jincai Chen; Ke Luo; Guoqiang Xie; Ping Lu; Weiming Cheng Source: IEEE Transactions on Magnetics, v 55, n 12, p 3002006 (6 pp.), Dec. 2019
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+3. Study of erase band and write performance for shingled magnetic recording with FePt-
+based exchanged coupled composite media
+Jincai Chen (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Guoqiang Xie; Ke Luo; Shaobing Wang; Ping Lu; Yao Wang Source: IEEE Transactions on Magnetics, v 54, n 11, p 7100306 (6 pp.), Nov. 2018
 
-Here is a table
+4. Read Channel Modeling and Neural Network Block Predictor for TDMR
+Ke Luo (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Shaobing Wang; Guoqiang Xie; Jincai Chen; Ping Lu; Weiming Cheng Source: 2018 Asia-Pacific Magnetic Recording Conference (APMRC), p 2 pp., 2018
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+5. Rounded Corner Effect on Write Performance for Shingled Magnetic Recording System
+Guoqiang Xie (Wuhan Nat. Lab. for Optoelectron., Huazhong Univ. of Sci. & Technol., Wuhan, China); Ke Luo; Shaobing Wang; Ping Lu; Weiming Cheng; Jincai Chen Source: 2018 Asia-Pacific Magnetic Recording Conference (APMRC), p 2 pp., 2018
 
-Here is a horizontal rule
+## Related Projects
+超高密度二维磁记录读磁头阵列及其记录系统关键技术研究. NSFC No.61672246. (2017.1~2020.12)
+比特图案介质的超高密度瓦记录关键技术研究. NSFC No.61272068. (2013.1~2016.12)
 
----
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
