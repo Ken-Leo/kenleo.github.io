@@ -18,7 +18,9 @@ sass:
 nav:
  - name: "About"
    link: "/kenleo.resume/"
- - name: "Resume"
-   link: "resume.pdf"
+   name: "Resume-zh"
+   link: "resume_zh.pdf"
+ - name: "Resume-en"
+   link: "resume_en.pdf"
  - name: "Contact"
    link: "contact"
